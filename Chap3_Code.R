@@ -6,3 +6,4 @@ sum(12,56,-5,7)
 getwd()
 setwd("C:/Users/noahs/OneDrive/Desktop/Chap3")
 list.files()
+9
